@@ -1,7 +1,10 @@
 [Adblock Plus 2.0]
 ! Version: 20230323162617
-! Title: adgk手机去广告规则
-! Homepage: https://github.com/banbendalao/ADgk
-! by: 坂本dalao
+! Title: 去广告规则
+! Homepage: aaa
+! by: test
 
 ||piimg.com^$image,domain=fulidh.org|lsjsoso.com
+right.com.cn/logo/*.gif?
+right.com.cn/logo/##gif
+/*.gif$domain=right.com.cn
