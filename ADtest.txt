@@ -8,3 +8,11 @@
 right.com.cn/logo/*.gif?
 right.com.cn/logo/##gif
 /*.gif$domain=right.com.cn
+*.gif^$domain=right.com.cn
+*/logo/*.gif|
+*/logo/*.gif$image
+.right.com.cn/logo/*.gif
+.right.com.cn/logo/*.gif?
+/right.com.cn\/.*[-\/]\d+x\d+.*\*.gif/$dright.com.cn
+/logo/*.gif$~third-party
+
