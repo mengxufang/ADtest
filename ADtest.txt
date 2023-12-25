@@ -15,4 +15,5 @@ right.com.cn/logo/##gif
 .right.com.cn/logo/*.gif?
 /right.com.cn\/.*[-\/]\d+x\d+.*\*.gif/$dright.com.cn
 /logo/*.gif$~third-party
+www.right.com.cn/logo/rlu231117.gif
 
